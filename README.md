@@ -3,4 +3,4 @@
 
 ReveStr ----reverse a string
 
-Palindrome----->
+Palindrome----->string is a Palindrome or not.
