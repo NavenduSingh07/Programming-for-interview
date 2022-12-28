@@ -2,3 +2,5 @@
 
 
 ReveStr ----reverse a string
+
+Palindrome----->
